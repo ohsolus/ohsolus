@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Yesenia%20Larenas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Yesenia Larenas" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yesenia%20Larenas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Yesenia Larenas" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Desarrolladora+Web+Fullstack;Agentes+de+IA+%26+Automatizaci%C3%B3n;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+TypeScript;Ingeniera+en+Inform%C3%A1tica+%F0%9F%87%BB%F0%9F%87%AA" alt="Typing SVG" />
 
